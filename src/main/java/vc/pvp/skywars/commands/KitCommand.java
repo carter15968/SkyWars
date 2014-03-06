@@ -11,7 +11,7 @@ import vc.pvp.skywars.game.GameState;
 import vc.pvp.skywars.player.GamePlayer;
 import vc.pvp.skywars.utilities.Messaging;
 
-@CommandDescription("Allows a player to pick kits")
+@CommandDescription("Наборы для игроков")
 public class KitCommand implements CommandExecutor {
 
     @Override
