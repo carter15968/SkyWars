@@ -8,7 +8,7 @@ import vc.pvp.skywars.controllers.PlayerController;
 import vc.pvp.skywars.player.GamePlayer;
 import vc.pvp.skywars.utilities.Messaging;
 
-@CommandDescription("Leaves a SkyWars game")
+@CommandDescription("Выйти из игры")
 public class LeaveCommand implements CommandExecutor {
 
     @Override
